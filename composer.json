@@ -1,0 +1,16 @@
+{
+    "name": "kalpaitch/velocipede",
+    "description": "Where's the Velocipede website.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kalpaitch",
+            "email": "andrew@kalpaitch.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "drush/drush": "^8.0"
+    }
+}
